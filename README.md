@@ -1,2 +1,8 @@
-# Password-Generator
-"A robust and secure Password Generator application crafted with HTML5, CSS3, and Vanilla JavaScript. Features include customizable complexity settings (uppercase, numbers, symbols), a real-time strength meter, and a seamless one-click 'Copy to Clipboard' functionality for enhanced user security and experience."
+## 🔐 Project Overview
+A robust and secure **Password Generator** application crafted with HTML5, CSS3, and Vanilla JavaScript. 
+
+### 🚀 Key Features:
+- **Customizable Complexity:** Users can toggle uppercase, lowercase, numbers, and special characters.
+- **Real-time Strength Meter:** Instant visual feedback on password security levels.
+- **One-click Copy:** Seamless integration with the Clipboard API for effortless password saving.
+- **Fully Responsive UI:** A modern glassmorphism design that adapts to any screen size.
